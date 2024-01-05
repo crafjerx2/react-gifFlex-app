@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GifItem test suite should match the snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="One piece gif"
+      data-testid="test-img"
+      src="https://media4.giphy.com/media/4OV1bLOIWwIXRxpXlN/giphy.gif?cid=acacc881vaklavil45f31ohfkaui8zwofj1lxi7nsfnuv0y3&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+    />
+    <p
+      data-testid="test-title"
+    >
+      One piece gif
+    </p>
+  </div>
+</div>
+`;

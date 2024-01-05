@@ -6,7 +6,6 @@ export const GifFlexApp = () => {
 
   const onAddCategory = (newCategory) => {
     if (categories.includes(newCategory)) return;
-
     setcategories([newCategory, ...categories]);
   };
 
